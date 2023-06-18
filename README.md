@@ -37,34 +37,60 @@ Sorted coefficients for lambda:
 Parameter             Coef
 -----------------  -------
 loglines           1.0953
+
 wxgoals_lines_for  0.2040
+
 wgoals_xgoals_for -0.1385
+
 wgoals_lines_ag   -0.0973
+
 goals_xgoals_for   0.0939
+
 xgoals_lines_for  -0.0810
+
 goals_lines_for   -0.0616
+
 xgoals_lines_ag    0.0580
+
 wxgoals_lines_ag  -0.0476
+
 intercept         -0.0462
+
 wgoals_lines_for   0.0383
+
 goals_lines_ag     0.0244
+
 wgoals_xgoals_ag   0.0050
+
 goals_xgoals_ag    0.0041
 Sorted coefficients for alpha:
 
 Parameter             Coef
 -----------------  -------
 loglines          -0.3108
+
 wgoals_xgoals_ag   0.1128
+
 goals_xgoals_for   0.0965
+
 intercept          0.0933
+
 wgoals_xgoals_for  0.0689
+
 wgoals_lines_ag    0.0573
+
 wgoals_lines_for   0.0455
+
 goals_lines_for    0.0403
+
 goals_xgoals_ag    0.0402
+
 wxgoals_lines_for  0.0333
+
 xgoals_lines_ag    0.0151
+
 xgoals_lines_for   0.0087
+
 goals_lines_ag     0.0023
+
 wxgoals_lines_ag  -0.0006
